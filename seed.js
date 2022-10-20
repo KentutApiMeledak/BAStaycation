@@ -41,7 +41,7 @@ var data = [
     'documents': [
       {
         _id: mongoose.Types.ObjectId('5e96cbe292b97300fc901111'),
-        name: 'Houses with beauty backyard',
+        name: 'Villa dengan taman yang indah',
         itemId: [
           { _id: mongoose.Types.ObjectId('5e96cbe292b97300fc902222') },
           { _id: mongoose.Types.ObjectId('5e96cbe292b97300fc902223') },
@@ -51,7 +51,7 @@ var data = [
       },
       {
         _id: mongoose.Types.ObjectId('5e96cbe292b97300fc901112'),
-        name: 'Hotels with large living room',
+        name: 'Hotel dengan ruang tamu yang luas',
         itemId: [
           { _id: mongoose.Types.ObjectId('5e96cbe292b97300fc902226') },
           { _id: mongoose.Types.ObjectId('5e96cbe292b97300fc902227') },
@@ -61,7 +61,7 @@ var data = [
       },
       {
         _id: mongoose.Types.ObjectId('5e96cbe292b97300fc901113'),
-        name: 'Apartment with kitchen',
+        name: 'Hotel dengan kolam renang pribadi',
         itemId: [
           { _id: mongoose.Types.ObjectId('5e96cbe292b97300fc902230') },
           { _id: mongoose.Types.ObjectId('5e96cbe292b97300fc902231') },
@@ -87,8 +87,8 @@ var data = [
         country: 'Indonesia',
         city: 'Lampung',
         isPopular: false,
-        description: 'Minimal techno is a minimalist subgenre of techno music. It is characterized by a stripped-down aesthetic that exploits the use of repetition and understated development. Minimal techno is thought to have been originally developed in the early 1990s by Detroit-based producers Robert Hood and Daniel Bell.',
-        unit: 'night',
+        description: 'Minimal techno adalah subgenre minimalis dari musik techno. Ini dicirikan oleh estetika yang dilucuti yang mengeksploitasi penggunaan pengulangan dan pengembangan yang bersahaja. Minimal techno diperkirakan awalnya dikembangkan pada awal 1990-an oleh produser yang berbasis di Detroit, Robert Hood dan Daniel Bell.</p><p>Tren seperti itu melihat kematian techno yang mengandung jiwa yang melambangkan suara Detroit asli. Robert Hood telah mencatat bahwa dia dan Daniel Bellboth menyadari ada sesuatu yang hilang dari techno di era pasca-rave.</p><p>Desain adalah rencana atau spesifikasi untuk konstruksi suatu objek atau sistem atau untuk implementasi suatu kegiatan atau proses, atau hasil dari rencana atau spesifikasi tersebut dalam bentuk prototipe, proses produksi. Badan nasional untuk desain: memungkinkan Singapura menggunakan desain untuk pertumbuhan ekonomi dan membuat hidup lebih baik.',
+        unit: 'Malam',
         imageId: [
           // done
           { _id: mongoose.Types.ObjectId('5e96cbe292b97300fc90cdb4') },
@@ -132,8 +132,8 @@ var data = [
         country: 'Indonesia',
         city: 'Bandung',
         isPopular: false,
-        description: 'Minimal techno is a minimalist subgenre of techno music. It is characterized by a stripped-down aesthetic that exploits the use of repetition and understated development. Minimal techno is thought to have been originally developed in the early 1990s by Detroit-based producers Robert Hood and Daniel Bell.',
-        unit: 'night',
+        description: 'Minimal techno adalah subgenre minimalis dari musik techno. Ini dicirikan oleh estetika yang dilucuti yang mengeksploitasi penggunaan pengulangan dan pengembangan yang bersahaja. Minimal techno diperkirakan awalnya dikembangkan pada awal 1990-an oleh produser yang berbasis di Detroit, Robert Hood dan Daniel Bell.</p><p>Tren seperti itu melihat kematian techno yang mengandung jiwa yang melambangkan suara Detroit asli. Robert Hood telah mencatat bahwa dia dan Daniel Bellboth menyadari ada sesuatu yang hilang dari techno di era pasca-rave.</p><p>Desain adalah rencana atau spesifikasi untuk konstruksi suatu objek atau sistem atau untuk implementasi suatu kegiatan atau proses, atau hasil dari rencana atau spesifikasi tersebut dalam bentuk prototipe, proses produksi. Badan nasional untuk desain: memungkinkan Singapura menggunakan desain untuk pertumbuhan ekonomi dan membuat hidup lebih baik.',
+        unit: 'Malam',
         imageId: [
           // done
           { _id: mongoose.Types.ObjectId('5e96cbe292b97300fc90cdb1') },
