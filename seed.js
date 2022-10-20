@@ -457,7 +457,7 @@ var data = [
         invoice: 1231231,
         itemId: {
           _id: mongoose.Types.ObjectId('5e96cbe292b97300fc902222'),
-          title: 'Village Angga',
+          title: 'Village Briansyah',
           price: 6,
           duration: 2,
         },
@@ -481,16 +481,16 @@ var data = [
     'documents': [
       {
         _id: mongoose.Types.ObjectId('5e96cbe292b97300fc903333'),
-        firstName: 'Elfin',
-        lastName: 'Sanjaya',
-        email: 'elfinsanjaya12@gmail.com',
+        firstName: 'Briansyah',
+        lastName: 'Jati',
+        email: 'Briansyahjati@gmail.com',
         phoneNumber: '082377954008'
       },
       {
         _id: mongoose.Types.ObjectId('5e96cbe292b97300fc903334'),
-        firstName: 'Yein',
-        lastName: 'Narayana',
-        email: 'elfinsanjaya1207@gmail.com',
+        firstName: 'Afif',
+        lastName: 'Suwandi',
+        email: 'Afifwandi@gmail.com',
         phoneNumber: '082377954008'
       }
     ]
